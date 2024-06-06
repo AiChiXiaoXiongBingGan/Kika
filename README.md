@@ -4,6 +4,9 @@ Kika 是一款综合利用 Vue 3、Spring Boot、Redis、ChatGLM、RxJava 和 SS
 
 ---
 
+## Kika Logo
+<img src="https://github.com/AiChiXiaoXiongBingGan/Kika-front/blob/master/public/logo.png" alt="My Image" width="300" />
+
 ## 一、项目介绍
 
 **什么是答题应用？**
@@ -76,8 +79,8 @@ Kika 是一款综合利用 Vue 3、Spring Boot、Redis、ChatGLM、RxJava 和 SS
 
 ---
 
-## 四、如何开始
+## 项目概览
+<img src="https://github.com/AiChiXiaoXiongBingGan/Kika-front/blob/master/text1.png" alt="My Image" width="1000" />
+<img src="https://github.com/AiChiXiaoXiongBingGan/Kika-front/blob/master/text2.png" alt="My Image" width="1000" />
+<img src="https://github.com/AiChiXiaoXiongBingGan/Kika-front/blob/master/text3.png" alt="My Image" width="1000" />
 
-**克隆项目**
-   ```bash
-   git clone https://github.com/yourusername/Kika.git
